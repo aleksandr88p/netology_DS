@@ -1,0 +1,2592 @@
+{
+    "pagesCount": 50,
+    "searchStatistics": {
+        "articlesCount": 24628,
+        "commentsCount": 27283,
+        "hubsCount": 115,
+        "usersCount": 417,
+        "companiesCount": 1
+    },
+    "publicationRefs": {
+        "498364": {
+            "id": "498364",
+            "timePublished": "2020-04-21T15:35:14+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Вышел <em class=\"searched-item\">Python</em> 2.7.18, последний релиз ветки <em class=\"searched-item\">Python</em> 2.x",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 7,
+                "favoritesCount": 8,
+                "readingCount": 11342,
+                "score": 19,
+                "votesCount": 19,
+                "votesCountPlus": 19,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21906",
+                    "alias": "history",
+                    "type": "collective",
+                    "title": "История IT",
+                    "titleHtml": "История IT",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<div style=\"text-align:center;\"><img src=\"https://habrastorage.org/webt/xa/le/34/xale34yhytai0hggk7dxtrk6gee.jpeg\"></div><br>\r\n20 апреля 2020 года, спустя почти десять лет после выхода Python 2.7, <a href=\"https://www.python.org/downloads/release/python-2718/\" rel=\"nofollow\">выпущен</a> «на волю» Python версии 2.7.18. Это последний релиз ветки Python 2.x, поддерживаемый параллельно с веткой 3.x. <br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 1,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "Python 2"
+                },
+                {
+                    "titleHtml": "последний релиз"
+                }
+            ]
+        },
+        "531402": {
+            "id": "531402",
+            "timePublished": "2020-12-04T18:03:25+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "<em class=\"searched-item\">Python</em> как компилируемый статически типизированный язык программирования",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "705763",
+                "alias": "alec_kalinin",
+                "fullname": "Alexander Kalinin",
+                "avatarUrl": "",
+                "speciality": ""
+            },
+            "statistics": {
+                "commentsCount": 38,
+                "favoritesCount": 53,
+                "readingCount": 19761,
+                "score": 16,
+                "votesCount": 21,
+                "votesCountPlus": 15,
+                "votesCountMinus": 6
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Python как статически типизированный компилируемый язык</p>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать далее",
+                "image": null
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "numba"
+                }
+            ]
+        },
+        "566370": {
+            "id": "566370",
+            "timePublished": "2021-07-06T10:29:57+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "<em class=\"searched-item\">Python</em> Community Meetup 8/07: видео и материалы встречи",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "1447558",
+                "alias": "Raiffeisenbank",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/69a/0b3/e86/69a0b3e86ff8804ffc3d1600c694e08d.png",
+                "speciality": "Пользователь"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 4,
+                "readingCount": 2829,
+                "score": 3,
+                "votesCount": 3,
+                "votesCountPlus": 3,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "21086",
+                    "alias": "raiffeisenbank",
+                    "type": "corporative",
+                    "title": "Блог компании Райффайзен Банк",
+                    "titleHtml": "Блог компании Райффайзен Банк",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "17719",
+                    "alias": "oop",
+                    "type": "collective",
+                    "title": "ООП",
+                    "titleHtml": "ООП",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "20754",
+                    "alias": "tech_events",
+                    "type": "collective",
+                    "title": "Конференции",
+                    "titleHtml": "Конференции",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "4",
+                    "alias": "marketing",
+                    "title": "Маркетинг",
+                    "titleHtml": "Маркетинг"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Первый открытый онлайн-митап сообщества, для которого собрали огонь-программу. Вместе со спикерами из Райффайзенбанка и Яндекса обсудили новости с полей — «Python ускоряется?», поговорили об использовании Dependency Injection и применении Python в highload-проектах с большой кодовой базой. <br><br><strong><a href=\"https://www.youtube.com/watch?v=qfMWyStoyS4\">Смотрите митап в записи</a></strong></p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/784/ac9/7b8/784ac97b85d11f1331e38f5a72273504.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/784/ac9/7b8/784ac97b85d11f1331e38f5a72273504.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "dependency injection"
+                },
+                {
+                    "titleHtml": "highload"
+                },
+                {
+                    "titleHtml": "meetup"
+                },
+                {
+                    "titleHtml": "raiffeisendgtl"
+                }
+            ]
+        },
+        "589555": {
+            "id": "589555",
+            "timePublished": "2021-11-16T13:09:46+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "EPAM разработала бесплатный курс по программированию для детей и подростков «Chatbot on <em class=\"searched-item\">Python</em>. Part 1»",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2756379",
+                "alias": "Sviatlana_Zimahorava",
+                "fullname": null,
+                "avatarUrl": "",
+                "speciality": ""
+            },
+            "statistics": {
+                "commentsCount": 13,
+                "favoritesCount": 45,
+                "readingCount": 9552,
+                "score": 3,
+                "votesCount": 3,
+                "votesCountPlus": 3,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "17433",
+                    "alias": "epam_systems",
+                    "type": "corporative",
+                    "title": "Блог компании EPAM",
+                    "titleHtml": "Блог компании EPAM",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "20696",
+                    "alias": "study",
+                    "type": "collective",
+                    "title": "Учебный процесс в IT",
+                    "titleHtml": "Учебный процесс в IT",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании",
+                    "titleHtml": "IT-компании",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент",
+                    "titleHtml": "Менеджмент"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Компания EPAM запустила бесплатный курс для самостоятельной подготовки&nbsp;<a href=\"https://epa.ms/2ek6gv\">«Chatbot on Python. Part 1: прокачай свой Python»</a>.&nbsp;Он доступен для всех желающих на платформе learn.epam.com в&nbsp;<a href=\"https://epa.ms/2ek6gv\">русской</a>&nbsp;и&nbsp;<a href=\"https://epa.ms/2e4HwH\">английской</a>&nbsp;версиях.</p><p>Программа разработана для детей и подростков 12–14 лет, но может заинтересовать и ребят постарше. Детям младшего возраста рекомендуется знакомиться с материалом вместе со взрослыми.</p>",
+                "imageUrl": "https://habrastorage.org/r/w780/getpro/habr/upload_files/b70/53b/a02/b7053ba024c5a26b743dbc247db5f8b9.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w780/getpro/habr/upload_files/b70/53b/a02/b7053ba024c5a26b743dbc247db5f8b9.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "chatbot"
+                },
+                {
+                    "titleHtml": "kids"
+                },
+                {
+                    "titleHtml": "training"
+                },
+                {
+                    "titleHtml": "scratch"
+                },
+                {
+                    "titleHtml": "курсы программирования"
+                },
+                {
+                    "titleHtml": "обучение детей"
+                },
+                {
+                    "titleHtml": "обучение"
+                },
+                {
+                    "titleHtml": "для детей"
+                },
+                {
+                    "titleHtml": "python для школьников"
+                }
+            ]
+        },
+        "595093": {
+            "id": "595093",
+            "timePublished": "2021-12-13T06:00:03+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "Жаждущим автоматизации: открытый урок «ChatOps c Errbot на <em class=\"searched-item\">Python</em>», 21 декабря",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2317491",
+                "alias": "geniyoctober",
+                "fullname": "Евгений Бутырин",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/53f/de7/020/53fde7020b74de978d3c1d2fb2d1febc.jpg",
+                "speciality": "Я к вам пишу – чего же боле?"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 12,
+                "readingCount": 3186,
+                "score": 9,
+                "votesCount": 7,
+                "votesCountPlus": 6,
+                "votesCountMinus": 1
+            },
+            "hubs": [
+                {
+                    "id": "17901",
+                    "alias": "slurm",
+                    "type": "corporative",
+                    "title": "Блог компании Слёрм",
+                    "titleHtml": "Блог компании Слёрм",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>21 декабря Слёрм проведёт открытый урок «ChatOps c Errbot на Python». Вещает Антон Рязанцев – спикер курса «Python для инженеров». Начнём в 18:00 по Москве, действо продлится примерно один час, запись будет.</p><p>Поговорим о том, что такое ChatOps и как организовать ChatOps-процессы при помощи популярного фреймворка Errbot. Напишем своего бота в прямом эфире, без каскадёров и дублей. Кратко расскажем о курсе «Python для инженеров».</p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/d74/5fd/e49/d745fde490350cfe5b4438b1ff3ca6f2.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/d74/5fd/e49/d745fde490350cfe5b4438b1ff3ca6f2.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 7,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "слёрм"
+                },
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "открытый урок"
+                },
+                {
+                    "titleHtml": "обучение"
+                },
+                {
+                    "titleHtml": "devops"
+                },
+                {
+                    "titleHtml": "chatops"
+                },
+                {
+                    "titleHtml": "программирование"
+                },
+                {
+                    "titleHtml": "образование"
+                }
+            ]
+        },
+        "645485": {
+            "id": "645485",
+            "timePublished": "2022-01-13T15:35:30+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "Открытый урок «Пишем Custom Prometheus Exporter на <em class=\"searched-item\">Python</em>», 19 января",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2831033",
+                "alias": "Hedgehog_art",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d5b/8fa/51c/d5b8fa51cf1f35bcfae21586e8fd771d.jpg",
+                "speciality": ""
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 20,
+                "readingCount": 3844,
+                "score": 10,
+                "votesCount": 10,
+                "votesCountPlus": 9,
+                "votesCountMinus": 1
+            },
+            "hubs": [
+                {
+                    "id": "17901",
+                    "alias": "slurm",
+                    "type": "corporative",
+                    "title": "Блог компании Слёрм",
+                    "titleHtml": "Блог компании Слёрм",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>19 января Слёрм проведёт открытый урок «Пишем Custom Prometheus Exporter на Python». В главной роли Денис Наумов – спикер курса «Python для инженеров». Начало в 19:00 по Москве.</p><p>Научим писать Prometheus Exporter для случаев, когда сервис не умеет работать по протоколу Prometheus, а готовых экспортеров нет. Все что нужно – Python и библиотеки.</p><p>Покажем, как экспортировать данные в популярные типы протокола Prometheus: Counters, Gauges, Histograms, Summary на примере задачи с расчетом SLA ответов по API и слежением за бизнес-метриками.</p><p>И расскажем, как запустить экспортер в продакшен.</p>",
+                "imageUrl": "https://habrastorage.org/r/w780/getpro/habr/upload_files/ba3/d11/4a7/ba3d114a76981e14bf961820f78afbcb.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w780/getpro/habr/upload_files/ba3/d11/4a7/ba3d114a76981e14bf961820f78afbcb.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 7,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "Слёрм"
+                },
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "открытый урок"
+                },
+                {
+                    "titleHtml": "обучение"
+                },
+                {
+                    "titleHtml": "devops"
+                },
+                {
+                    "titleHtml": "программирование"
+                },
+                {
+                    "titleHtml": "prometheus"
+                },
+                {
+                    "titleHtml": "образование"
+                }
+            ]
+        },
+        "646825": {
+            "id": "646825",
+            "timePublished": "2022-01-20T15:37:16+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "Курс «<em class=\"searched-item\">Python</em> для инженеров». Старт 3 потока 31 января",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2831033",
+                "alias": "Hedgehog_art",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d5b/8fa/51c/d5b8fa51cf1f35bcfae21586e8fd771d.jpg",
+                "speciality": ""
+            },
+            "statistics": {
+                "commentsCount": 1,
+                "favoritesCount": 30,
+                "readingCount": 10021,
+                "score": 10,
+                "votesCount": 12,
+                "votesCountPlus": 10,
+                "votesCountMinus": 2
+            },
+            "hubs": [
+                {
+                    "id": "17901",
+                    "alias": "slurm",
+                    "type": "corporative",
+                    "title": "Блог компании Слёрм",
+                    "titleHtml": "Блог компании Слёрм",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Курс нацелен дать максимальную пользу, поэтому в нём нет абстрактных задач и любых проявлений Python для веба, аналитики и бекенда.</p><p>Будет разбор библиотек Python для DevOps, правила эффективного и поддерживаемого кода, решение конкретных задач DevOps, например:</p><p>— Написать модуль управления правами для ansible,</p><p>— Внедрить commit conventions и генерировать ченджлоги из коммитов при слиянии dev-бранча с релизным,</p><p>— Запросить данные о лимитах с облачных сервисов SBS по протоколу SSH.</p><p>Обучение закрепим проектом. Мы предлагаем тему на выбор, но рекомендуем взять свою рабочую задачу.</p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/de8/e08/ae4/de8e08ae46a2805756a85cbc8758c31c.png",
+                "buttonTextHtml": "Узнать больше",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/de8/e08/ae4/de8e08ae46a2805756a85cbc8758c31c.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 7,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "devops"
+                },
+                {
+                    "titleHtml": "программирование"
+                },
+                {
+                    "titleHtml": "обучение"
+                },
+                {
+                    "titleHtml": "образование"
+                },
+                {
+                    "titleHtml": "Слёрм"
+                }
+            ]
+        },
+        "654707": {
+            "id": "654707",
+            "timePublished": "2022-03-08T09:13:52+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Вышел мартовский релиз расширения <em class=\"searched-item\">Python</em> для Visual Studio Code",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 4,
+                "readingCount": 4281,
+                "score": 0,
+                "votesCount": 0,
+                "votesCountPlus": 0,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "359",
+                    "alias": "programming",
+                    "type": "collective",
+                    "title": "Программирование",
+                    "titleHtml": "Программирование",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Вышел выпуск расширения Python для Visual Studio Code за март 2022 года. Это короткий выпуск, но он <a href=\"https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2022-release/\" rel=\"noopener noreferrer nofollow\">включает</a> некоторые новые функции, такие как поддержка предварительных версий и изменения в выборе интерпретатора в строке состояния.</p>",
+                "imageUrl": "https://habrastorage.org/r/w780/getpro/habr/upload_files/57d/ee2/5d2/57dee25d27eeb20e3fb27b56ff0e2b39.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w780/getpro/habr/upload_files/57d/ee2/5d2/57dee25d27eeb20e3fb27b56ff0e2b39.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 41.666666666667
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "visual studio code"
+                },
+                {
+                    "titleHtml": "расширение"
+                },
+                {
+                    "titleHtml": "плагин"
+                },
+                {
+                    "titleHtml": "программирование"
+                },
+                {
+                    "titleHtml": "языки программирования"
+                },
+                {
+                    "titleHtml": "интерпретаторы"
+                },
+                {
+                    "titleHtml": "строка состояния"
+                }
+            ]
+        },
+        "695298": {
+            "id": "695298",
+            "timePublished": "2022-10-25T09:02:04+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Вышел <em class=\"searched-item\">Python</em> 3.11",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 3,
+                "favoritesCount": 13,
+                "readingCount": 12452,
+                "score": 11,
+                "votesCount": 9,
+                "votesCountPlus": 8,
+                "votesCountMinus": 1
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "359",
+                    "alias": "programming",
+                    "type": "collective",
+                    "title": "Программирование",
+                    "titleHtml": "Программирование",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Разработчики <a href=\"https://blog.python.org/2022/10/python-3110-is-now-available.html\" rel=\"noopener noreferrer nofollow\">опубликовали</a> выпуск языка программирования Python 3.11. Новая ветка будет поддерживаться в течение полутора лет и три с половиной года для неё будут формироваться исправления с устранением уязвимостей.</p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/6fd/b62/ec8/6fdb62ec86cfca7c2cb1c050cd33cc87.JPG",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/6fd/b62/ec8/6fdb62ec86cfca7c2cb1c050cd33cc87.JPG",
+                    "fit": "cover",
+                    "positionY": 36,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 3,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "python 3"
+                },
+                {
+                    "titleHtml": "python 3.11"
+                },
+                {
+                    "titleHtml": "языки программирования"
+                },
+                {
+                    "titleHtml": "релиз"
+                },
+                {
+                    "titleHtml": "поддержка"
+                },
+                {
+                    "titleHtml": "программирование на python"
+                }
+            ]
+        },
+        "707698": {
+            "id": "707698",
+            "timePublished": "2022-12-26T11:24:49+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Positive Technologies открыла доступ по запросу к сервису обнаружения вредоносных <em class=\"searched-item\">Python</em>-пакетов PT PyAnalysis",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 10,
+                "readingCount": 2157,
+                "score": 2,
+                "votesCount": 2,
+                "votesCountPlus": 2,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "18790",
+                    "alias": "github",
+                    "type": "collective",
+                    "title": "GitHub",
+                    "titleHtml": "GitHub",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "144",
+                    "alias": "open_source",
+                    "type": "collective",
+                    "title": "Open source",
+                    "titleHtml": "Open source",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "50",
+                    "alias": "infosecurity",
+                    "type": "collective",
+                    "title": "Информационная безопасность",
+                    "titleHtml": "Информационная безопасность",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/jh/an/5-/jhan5-69hj8xftq1minu1kibf1u.png\"><br>\r\n<br>\r\nРазработчик решений для информационной безопасности компания Positive Technologies открыла доступ по запросу к сервису обнаружения вредоносных Python-пакетов в открытом ПО под названием <a href=\"https://www.ptsecurity.com/ru-ru/services/pt-pyanalysis/#free-demo\" rel=\"nofollow noopener noreferrer\">PT PyAnalysis</a>.<br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 3,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "Positive Technologies"
+                },
+                {
+                    "titleHtml": "запрос"
+                },
+                {
+                    "titleHtml": "сервис"
+                },
+                {
+                    "titleHtml": "обнаружение"
+                },
+                {
+                    "titleHtml": "вредоносных пакет"
+                },
+                {
+                    "titleHtml": "Python"
+                },
+                {
+                    "titleHtml": "PT PyAnalysis"
+                },
+                {
+                    "titleHtml": "PyAnalysis"
+                }
+            ]
+        },
+        "756266": {
+            "id": "756266",
+            "timePublished": "2023-08-22T17:14:29+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Microsoft добавила <em class=\"searched-item\">Python</em> в Excel",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 18,
+                "favoritesCount": 34,
+                "readingCount": 19292,
+                "score": 22,
+                "votesCount": 20,
+                "votesCountPlus": 19,
+                "votesCountMinus": 1
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "359",
+                    "alias": "programming",
+                    "type": "collective",
+                    "title": "Программирование",
+                    "titleHtml": "Программирование",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21456",
+                    "alias": "win_dev",
+                    "type": "collective",
+                    "title": "Разработка под Windows",
+                    "titleHtml": "Разработка под Windows",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21906",
+                    "alias": "history",
+                    "type": "collective",
+                    "title": "История IT",
+                    "titleHtml": "История IT",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "21918",
+                    "alias": "soft",
+                    "type": "collective",
+                    "title": "Софт",
+                    "titleHtml": "Софт",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>22 августа 2023 года Microsoft <a href=\"https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482\" rel=\"noopener noreferrer nofollow\">сообщила</a>, что <a href=\"https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support\" rel=\"noopener noreferrer nofollow\">добавила</a> в бета-версию Microsoft 365 язык программирования Python в Excel для улучшения возможности анализа и визуализации данных.</p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/9ca/469/ff1/9ca469ff1694a699b26ca41859be9f2a.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/9ca/469/ff1/9ca469ff1694a699b26ca41859be9f2a.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "windows"
+                },
+                {
+                    "titleHtml": "python"
+                }
+            ]
+        },
+        "761862": {
+            "id": "761862",
+            "timePublished": "2023-09-19T04:42:15+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Microsoft представила дополнение <em class=\"searched-item\">Python</em> Editor от команды Excel Labs",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 27,
+                "readingCount": 3219,
+                "score": 3,
+                "votesCount": 3,
+                "votesCountPlus": 3,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "359",
+                    "alias": "programming",
+                    "type": "collective",
+                    "title": "Программирование",
+                    "titleHtml": "Программирование",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21456",
+                    "alias": "win_dev",
+                    "type": "collective",
+                    "title": "Разработка под Windows",
+                    "titleHtml": "Разработка под Windows",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21918",
+                    "alias": "soft",
+                    "type": "collective",
+                    "title": "Софт",
+                    "titleHtml": "Софт",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Microsoft <a href=\"https://techcommunity.microsoft.com/t5/excel-blog/introducing-the-python-editor-from-excel-labs/ba-p/3928986\" rel=\"noopener noreferrer nofollow\">представила</a> дополнение Python Editor от команды Excel Labs для расширенной и экспериментальной работы с языком программирования <a href=\"https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439\" rel=\"noopener noreferrer nofollow\">Python в Excel</a>. Дополнение Python Editor позволяет вводить более длинный и сложный код в электронные таблицы и ячейки Excel.</p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/ac1/735/a74/ac1735a748ee30cf06f36efa7a62ea43.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/ac1/735/a74/ac1735a748ee30cf06f36efa7a62ea43.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "windows"
+                },
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "Excel Labs"
+                },
+                {
+                    "titleHtml": "Excel"
+                },
+                {
+                    "titleHtml": "Python Editor"
+                }
+            ]
+        },
+        "766124": {
+            "id": "766124",
+            "timePublished": "2023-10-09T05:39:37+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "JetBrains и <em class=\"searched-item\">Python</em> Software Foundation рассказали, как разработчики использовали <em class=\"searched-item\">Python</em> в 2022 году",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2320593",
+                "alias": "daniilshat",
+                "fullname": "Даниил Шатухин",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/165/6b8/929/1656b8929300fbfdbb3bbb0b1721ec87.png",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 5,
+                "favoritesCount": 8,
+                "readingCount": 2915,
+                "score": 8,
+                "votesCount": 8,
+                "votesCountPlus": 8,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "359",
+                    "alias": "programming",
+                    "type": "collective",
+                    "title": "Программирование",
+                    "titleHtml": "Программирование",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21890",
+                    "alias": "statistics",
+                    "type": "collective",
+                    "title": "Статистика в IT",
+                    "titleHtml": "Статистика в IT",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>JetBrain совместно с Python Software Foundation <a href=\"https://lp.jetbrains.com/python-developers-survey-2022/\" rel=\"noopener noreferrer nofollow\">опубликовали</a> результаты большого исследования, помогающего понять, как разработчики использовали Python в 2022 году. Исследование строит на базе опроса разработчиков. В 2022 году в нём приняло участие более 23 тыс. человек из почти 200 регионов.</p><p></p>",
+                "imageUrl": "https://habrastorage.org/r/w780/getpro/habr/upload_files/2fc/31d/842/2fc31d842f587052348c1c2bc9953bc3.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w780/getpro/habr/upload_files/2fc/31d/842/2fc31d842f587052348c1c2bc9953bc3.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "jetbrains"
+                },
+                {
+                    "titleHtml": "исследование"
+                },
+                {
+                    "titleHtml": "разработка"
+                },
+                {
+                    "titleHtml": "программирование"
+                },
+                {
+                    "titleHtml": "статистика"
+                }
+            ]
+        },
+        "766270": {
+            "id": "766270",
+            "timePublished": "2023-10-09T12:23:46+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "Три уровня погружения в <em class=\"searched-item\">Python</em>. Запись докладов с <em class=\"searched-item\">Python</em> Meetup и полезные материалы",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2467007",
+                "alias": "andreyzaytsev",
+                "fullname": "Андрей",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/172/28d/fec/17228dfec949d70b8c25545419a241da.jpg",
+                "speciality": "Пользователь"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 43,
+                "readingCount": 6292,
+                "score": 2,
+                "votesCount": 3,
+                "votesCountPlus": 2,
+                "votesCountMinus": 1
+            },
+            "hubs": [
+                {
+                    "id": "14740",
+                    "alias": "selectel",
+                    "type": "corporative",
+                    "title": "Блог компании Selectel",
+                    "titleHtml": "Блог компании Selectel",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании",
+                    "titleHtml": "IT-компании",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "6398",
+                    "alias": "it-infrastructure",
+                    "type": "collective",
+                    "title": "IT-инфраструктура",
+                    "titleHtml": "IT-инфраструктура",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "22196",
+                    "alias": "kubernetes",
+                    "type": "collective",
+                    "title": "Kubernetes",
+                    "titleHtml": "Kubernetes",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент",
+                    "titleHtml": "Менеджмент"
+                },
+                {
+                    "id": "6",
+                    "alias": "admin",
+                    "title": "Администрирование",
+                    "titleHtml": "Администрирование"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Привет, Хабр! В сентябре мы провели Selectel Python Meetup на тему «Три уровня погружения: процессы под капотом, архитектура кода, развитие языка». Разработчики из Selectel и Райффайзенбанка рассказали о сборе метрик и мониторинге, проектировании микросервисной архитектуры, изменениях в Python и о том, что ждет язык в будущем. Записи докладов и материалы с предыдущего митапа — под катом.  </p><p></p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/c8f/1c3/867/c8f1c386765a4ba5057a0a9b8cc8e39d.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/c8f/1c3/867/c8f1c386765a4ba5057a0a9b8cc8e39d.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "kubernetes"
+                },
+                {
+                    "titleHtml": "it-компании"
+                },
+                {
+                    "titleHtml": "it-инфраструктура"
+                },
+                {
+                    "titleHtml": "prometheus"
+                },
+                {
+                    "titleHtml": "pep"
+                },
+                {
+                    "titleHtml": "микросервисы"
+                },
+                {
+                    "titleHtml": "gunicorn"
+                },
+                {
+                    "titleHtml": "selectel"
+                },
+                {
+                    "titleHtml": "райффайзенбанк"
+                }
+            ]
+        },
+        "768702": {
+            "id": "768702",
+            "timePublished": "2023-10-20T04:17:35+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Автор курсов по <em class=\"searched-item\">Python</em> и Pandas жалуется на вечный бан за рекламу торговли экзотическими животными",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "62563",
+                "alias": "atomlib",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/0e4/25c/082/0e425c082f0b7e10860ae495a558a233.jpg",
+                "speciality": "Замглавреда"
+            },
+            "statistics": {
+                "commentsCount": 21,
+                "favoritesCount": 13,
+                "readingCount": 11354,
+                "score": 13,
+                "votesCount": 16,
+                "votesCountPlus": 13,
+                "votesCountMinus": 3
+            },
+            "hubs": [
+                {
+                    "id": "7152",
+                    "alias": "data_mining",
+                    "type": "collective",
+                    "title": "Data Mining",
+                    "titleHtml": "Data Mining",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании",
+                    "titleHtml": "IT-компании",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "20714",
+                    "alias": "context",
+                    "type": "collective",
+                    "title": "Контекстная реклама",
+                    "titleHtml": "Контекстная реклама",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21924",
+                    "alias": "social_networks",
+                    "type": "collective",
+                    "title": "Социальные сети и сообщества",
+                    "titleHtml": "Социальные сети и сообщества",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент",
+                    "titleHtml": "Менеджмент"
+                },
+                {
+                    "id": "4",
+                    "alias": "marketing",
+                    "title": "Маркетинг",
+                    "titleHtml": "Маркетинг"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/kj/jc/bt/kjjcbtnm80tfwo01q5nvnx4ptag.jpeg\"><br>\r\n<em><a href=\"https://www.bing.com/images/create/a-panda-and-a-python-in-a-digital-prison-photorea/6531ffb9a2a44f9ebb94d4ed46e62599?id=KmPg9hJQqMbrYs5OWgmuBQ%3d%3d&amp;view=detailv2&amp;idpp=genimg&amp;idpclose=1&amp;FORM=SYDBIC\" rel=\"nofollow noopener noreferrer\">DALL-E 3</a></em><br>\r\n<br>\r\nПреподаватель языка Python Ревер Лернер <a href=\"https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/\" rel=\"nofollow noopener noreferrer\">рассказал</a> в личном блоге, как получил бан в рекламной сети Facebook². Лернер попытался разместить рекламу курсов Python и Pandas, но система сочла подобное рекламой продажи экзотических животных и заблокировала его аккаунт рекламодателя. Из-за того, как организована работа с данными в Meta¹, не помогло вернуть аккаунт даже вмешательство человека.<br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 3,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "Python"
+                },
+                {
+                    "titleHtml": "Pandas"
+                },
+                {
+                    "titleHtml": "Reuven M. Lerner"
+                },
+                {
+                    "titleHtml": "Ревен М. Лернер"
+                },
+                {
+                    "titleHtml": "Reuven Lerner"
+                },
+                {
+                    "titleHtml": "Ревен Лернер"
+                },
+                {
+                    "titleHtml": "курсы"
+                },
+                {
+                    "titleHtml": "видеокурсы"
+                },
+                {
+                    "titleHtml": "обучение"
+                },
+                {
+                    "titleHtml": "автоматизированные системы"
+                },
+                {
+                    "titleHtml": "ИИ"
+                },
+                {
+                    "titleHtml": "реклама"
+                },
+                {
+                    "titleHtml": "рекламные сети"
+                },
+                {
+                    "titleHtml": "Facebook"
+                },
+                {
+                    "titleHtml": "Meta"
+                },
+                {
+                    "titleHtml": "ошибки"
+                }
+            ]
+        },
+        "772872": {
+            "id": "772872",
+            "timePublished": "2023-11-09T11:05:15+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Alchemer совместно с JetBrains и <em class=\"searched-item\">Python</em> Software Foundation запустила «Опрос <em class=\"searched-item\">Python</em>-разработчиков 2023»",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 2,
+                "readingCount": 1787,
+                "score": 3,
+                "votesCount": 3,
+                "votesCountPlus": 3,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21924",
+                    "alias": "social_networks",
+                    "type": "collective",
+                    "title": "Социальные сети и сообщества",
+                    "titleHtml": "Социальные сети и сообщества",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "19583",
+                    "alias": "dev_management",
+                    "type": "collective",
+                    "title": "Управление разработкой",
+                    "titleHtml": "Управление разработкой",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "20696",
+                    "alias": "study",
+                    "type": "collective",
+                    "title": "Учебный процесс в IT",
+                    "titleHtml": "Учебный процесс в IT",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент",
+                    "titleHtml": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Alchemer совместно с JetBrains и Python Software Foundation запустила «<a href=\"https://survey.alchemer.com/s3/7554174/python-developers-survey-2023\" rel=\"noopener noreferrer nofollow\">Опрос Python-разработчиков 2023</a>».</p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/66c/a59/636/66ca59636b1acaab969ef74fde0ef3e0.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/66c/a59/636/66ca59636b1acaab969ef74fde0ef3e0.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 1,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "Python Software Foundation"
+                },
+                {
+                    "titleHtml": "Python"
+                },
+                {
+                    "titleHtml": "опрос"
+                }
+            ]
+        },
+        "825868": {
+            "id": "825868",
+            "timePublished": "2024-07-01T11:46:51+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Релиз открытой библиотеки для быстрой обработки данных <em class=\"searched-item\">Python</em> Polars 1.0",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 19,
+                "readingCount": 3645,
+                "score": 3,
+                "votesCount": 5,
+                "votesCountPlus": 4,
+                "votesCountMinus": 1
+            },
+            "hubs": [
+                {
+                    "id": "144",
+                    "alias": "open_source",
+                    "type": "collective",
+                    "title": "Open source",
+                    "titleHtml": "Open source",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "19583",
+                    "alias": "dev_management",
+                    "type": "collective",
+                    "title": "Управление разработкой",
+                    "titleHtml": "Управление разработкой",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "22374",
+                    "alias": "data_engineering",
+                    "type": "collective",
+                    "title": "Data Engineering",
+                    "titleHtml": "Data Engineering",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент",
+                    "titleHtml": "Менеджмент"
+                },
+                {
+                    "id": "6",
+                    "alias": "admin",
+                    "title": "Администрирование",
+                    "titleHtml": "Администрирование"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>1 июля 2024 года <a href=\"https://pola.rs/posts/announcing-polars-1/\" rel=\"noopener noreferrer nofollow\">состоялся</a> релиз открытой библиотеки для быстрой <a href=\"https://habr.com/ru/articles/710240/\" rel=\"noopener noreferrer nofollow\">обработки данных</a> <a href=\"https://github.com/pola-rs/polars/releases/tag/py-1.0.0\" rel=\"noopener noreferrer nofollow\">Python Polars 1.0</a>. Исходный код проекта написан на Rust и Python и <a href=\"https://github.com/pola-rs/polars/\" rel=\"noopener noreferrer nofollow\">опубликован</a> на GitHub.</p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/65e/5fb/dc9/65e5fbdc990d927542183f84d32e35f0.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/65e/5fb/dc9/65e5fbdc990d927542183f84d32e35f0.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "Python Polars 1.0"
+                },
+                {
+                    "titleHtml": "Python Polars"
+                },
+                {
+                    "titleHtml": "Python"
+                },
+                {
+                    "titleHtml": "Polars"
+                }
+            ]
+        },
+        "828098": {
+            "id": "828098",
+            "timePublished": "2024-07-11T06:57:03+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Инсайдерам Microsoft 365 станет доступен редактор <em class=\"searched-item\">Python</em> в Excel",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 3,
+                "favoritesCount": 8,
+                "readingCount": 2468,
+                "score": 8,
+                "votesCount": 5,
+                "votesCountPlus": 5,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "21456",
+                    "alias": "win_dev",
+                    "type": "collective",
+                    "title": "Разработка под Windows",
+                    "titleHtml": "Разработка под Windows",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21470",
+                    "alias": "cloud_services",
+                    "type": "collective",
+                    "title": "Облачные сервисы",
+                    "titleHtml": "Облачные сервисы",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "6",
+                    "alias": "admin",
+                    "title": "Администрирование",
+                    "titleHtml": "Администрирование"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>В сентябре 2023 года Microsoft <a href=\"https://techcommunity.microsoft.com/t5/excel-blog/graduating-the-python-editor-to-insiders-beta/ba-p/4185867?utm_source=dlvr.it&amp;utm_medium=twitter\" rel=\"noopener noreferrer nofollow\">запустила</a> надстройку Python Editor для приложения Excel в Windows. Теперь она стала доступна участникам программы Microsoft 365 Insider на бета-канале.</p><p></p>",
+                "imageUrl": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/92e/661/b29/92e661b29715105fecc990e14a438341.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/92e/661/b29/92e661b29715105fecc990e14a438341.png",
+                    "fit": "cover",
+                    "positionY": 46,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "microsoft"
+                },
+                {
+                    "titleHtml": "windows"
+                },
+                {
+                    "titleHtml": "excel"
+                },
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "редакторы"
+                },
+                {
+                    "titleHtml": "электронные таблицы"
+                },
+                {
+                    "titleHtml": "редактор кода"
+                },
+                {
+                    "titleHtml": "бета-тестирование"
+                }
+            ]
+        },
+        "840224": {
+            "id": "840224",
+            "timePublished": "2024-09-02T07:27:25+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "55% <em class=\"searched-item\">Python</em>-разработчиков используют Linux-окружение и 22% — редактор Visual Studio Code",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "Информационная служба Хабра"
+            },
+            "statistics": {
+                "commentsCount": 10,
+                "favoritesCount": 21,
+                "readingCount": 7766,
+                "score": 10,
+                "votesCount": 5,
+                "votesCountPlus": 5,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "359",
+                    "alias": "programming",
+                    "type": "collective",
+                    "title": "Программирование",
+                    "titleHtml": "Программирование",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "20688",
+                    "alias": "research",
+                    "type": "collective",
+                    "title": "Исследования и прогнозы в IT",
+                    "titleHtml": "Исследования и прогнозы в IT",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "21890",
+                    "alias": "statistics",
+                    "type": "collective",
+                    "title": "Статистика в IT",
+                    "titleHtml": "Статистика в IT",
+                    "isProfiled": false,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент",
+                    "titleHtml": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп",
+                    "titleHtml": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": true
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>Организация Python Software Foundation и компания JetBrains <a href=\"https://lp.jetbrains.com/python-developers-survey-2023/?utm_campaign=pycharm&amp;utm_content=python-survey-23&amp;utm_medium=referral&amp;utm_source=PSF-blog\" rel=\"noopener noreferrer nofollow\">провели</a> ежегодный опрос, который затронул более 25 тысяч разработчиков на языке программирования Python. Они опубликовали результаты своего исследования.</p><p></p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/430/020/c3d/430020c3dca97064b225219fe9943a9a.JPG",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/430/020/c3d/430020c3dca97064b225219fe9943a9a.JPG",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 2,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "python software foundation"
+                },
+                {
+                    "titleHtml": "jetbrains"
+                },
+                {
+                    "titleHtml": "исследование"
+                },
+                {
+                    "titleHtml": "опрос"
+                },
+                {
+                    "titleHtml": "разработчики"
+                },
+                {
+                    "titleHtml": "статистика"
+                },
+                {
+                    "titleHtml": "python-разработка"
+                }
+            ]
+        },
+        "852712": {
+            "id": "852712",
+            "timePublished": "2024-10-23T06:14:29+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "1С VS <em class=\"searched-item\">Python</em> – новый выпуск ютуб-шоу «Согласен / Не согласен»",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "publicationType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "4290598",
+                "alias": "ddomrachevaa",
+                "fullname": "Варя Домрачева",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/a78/35c/3a8/a7835c3a83786e10571245b3f2c2c773.jpg",
+                "speciality": "Выпускающий редактор техблогов Контура"
+            },
+            "statistics": {
+                "commentsCount": 11,
+                "favoritesCount": 9,
+                "readingCount": 3183,
+                "score": 4,
+                "votesCount": 2,
+                "votesCountPlus": 2,
+                "votesCountMinus": 0
+            },
+            "hubs": [
+                {
+                    "id": "15878",
+                    "alias": "skbkontur",
+                    "type": "corporative",
+                    "title": "Блог компании Контур",
+                    "titleHtml": "Блог компании Контур",
+                    "isProfiled": false,
+                    "relatedData": null
+                },
+                {
+                    "id": "22624",
+                    "alias": "1C",
+                    "type": "collective",
+                    "title": "1С",
+                    "titleHtml": "1С",
+                    "isProfiled": true,
+                    "relatedData": null
+                },
+                {
+                    "id": "340",
+                    "alias": "python",
+                    "type": "collective",
+                    "title": "Python",
+                    "titleHtml": "Python",
+                    "isProfiled": true,
+                    "relatedData": null
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка",
+                    "titleHtml": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "vote": null,
+                "unreadCommentsCount": 0,
+                "bookmarked": false,
+                "canComment": false,
+                "canEdit": false,
+                "canViewVotes": false,
+                "votePlus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": false
+                },
+                "voteMinus": {
+                    "canVote": false,
+                    "isChargeEnough": false,
+                    "isKarmaEnough": false,
+                    "isVotingOver": false
+                }
+            },
+            "leadData": {
+                "textHtml": "<p>1С-разработчик Николай Терещук и Python-разработчик Анатолий Осипов обсудили, чей язык сейчас популярнее, какой лучше для новичка в программировании, как они видят путь развития у 1С-разработчика и другие тезисы.</p><p>Ссылка на выпуск <a href=\"https://youtube.com/watch?v=s43Zp4T4u38\"><u>здесь</u></a>. Текстовая расшифровка встречи в статье.</p><p></p>",
+                "imageUrl": "https://habrastorage.org/r/w780/getpro/habr/upload_files/cf7/1c5/51d/cf71c551db0d445aab805944ec1100ed.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/r/w780/getpro/habr/upload_files/cf7/1c5/51d/cf71c551db0d445aab805944ec1100ed.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            },
+            "status": "published",
+            "plannedPublishTime": null,
+            "checked": null,
+            "format": null,
+            "readingTime": 4,
+            "complexity": null,
+            "isInBlacklist": null,
+            "tags": [
+                {
+                    "titleHtml": "1c"
+                },
+                {
+                    "titleHtml": "python"
+                },
+                {
+                    "titleHtml": "ютуб youtube"
+                },
+                {
+                    "titleHtml": "холивар"
+                },
+                {
+                    "titleHtml": "подкасты для разработчиков"
+                }
+            ]
+        }
+    },
+    "publicationIds": [
+        "646825",
+        "840224",
+        "595093",
+        "645485",
+        "761862",
+        "772872",
+        "498364",
+        "566370",
+        "756266",
+        "768702",
+        "766124",
+        "766270",
+        "852712",
+        "589555",
+        "654707",
+        "531402",
+        "695298",
+        "828098",
+        "825868",
+        "707698"
+    ]
+}
